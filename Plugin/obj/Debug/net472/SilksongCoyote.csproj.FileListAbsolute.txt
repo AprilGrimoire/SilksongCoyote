@@ -1,0 +1,12 @@
+/home/april/RiderProjects/SilksongCoyote/SilksongCoyote/bin/Debug/net472/SilksongCoyote.dll
+/home/april/RiderProjects/SilksongCoyote/SilksongCoyote/bin/Debug/net472/SilksongCoyote.pdb
+/home/april/RiderProjects/SilksongCoyote/SilksongCoyote/obj/Debug/net472/SilksongCoyote.csproj.AssemblyReference.cache
+/home/april/RiderProjects/SilksongCoyote/SilksongCoyote/obj/Debug/net472/MyPluginInfo.cs
+/home/april/RiderProjects/SilksongCoyote/SilksongCoyote/obj/Debug/net472/SilksongCoyote.GeneratedMSBuildEditorConfig.editorconfig
+/home/april/RiderProjects/SilksongCoyote/SilksongCoyote/obj/Debug/net472/SilksongCoyote.AssemblyInfoInputs.cache
+/home/april/RiderProjects/SilksongCoyote/SilksongCoyote/obj/Debug/net472/SilksongCoyote.AssemblyInfo.cs
+/home/april/RiderProjects/SilksongCoyote/SilksongCoyote/obj/Debug/net472/SilksongCoyote.csproj.CoreCompileInputs.cache
+/home/april/RiderProjects/SilksongCoyote/SilksongCoyote/obj/Debug/net472/SilksongCoyote.dll
+/home/april/RiderProjects/SilksongCoyote/SilksongCoyote/obj/Debug/net472/SilksongCoyote.pdb
+/home/april/RiderProjects/SilksongCoyote/SilksongCoyote/bin/Debug/net472/Newtonsoft.Json.dll
+/home/april/RiderProjects/SilksongCoyote/SilksongCoyote/obj/Debug/net472/SilksongCoyote.csproj.CopyComplete
